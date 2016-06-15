@@ -1,6 +1,6 @@
 UpdateAppDemo
 =========
-обтьAPK
+Update APK
 
 <img src='image/image01.png' height='500px'/>
 <img src='image/image02.png' height='500px'/>
